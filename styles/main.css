@@ -66,6 +66,18 @@ body {
 .main-description__parraf {
     font-weight: 600;
     color: var(--main-white-color);
-    margin: 8rem 3rem;
+    margin: 8rem 4rem 0 1rem;
     text-align: justify;
+}
+.main-aboutme__title {
+    color: var(--main-white-color);
+}
+.white-square {
+    height: 32rem;
+    background-color: var(--main-white-color);
+    transform: rotate(-20deg);
+    margin: 10rem 0 0 2rem;
+}
+.main-aboutme {
+    color: var(--main-white-color);
 }
